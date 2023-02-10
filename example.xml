@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ExcludeSuite">
+  <test name="ExcludeExampleTest">
+  <!-- We want to exclude first class -->
+  <!--  
+    <classes>
+      <class name="com.neotech.lesson01.Homework01"/>
+      <class name="com.neotech.lesson01.TitleAndLoginValidation"/>
+     
+    </classes>
+    
+    -->
+    <packages>
+    <package name="com.neotech.lesson01"></package>
+    
+    </packages>
+    <classes>
+    <!-- I want to exclude everything on homework01 -->
+    <class name="com.neotech.lesson01.Homework01">
+    <methods>
+    <exclude name=".*"></exclude>
+    </methods>
+    
+    </class>
+    </classes>
+    
+    
+  </test> <!-- ExcludeExampleTest -->
+</suite> <!-- ExcludeSuite -->

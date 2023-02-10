@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="TestExamples">
+    <classes>
+      <class name="com.neotech.lesson01.Homework01">
+      <methods>
+      <!-- Some comment here -->
+      <!--  -->
+      <include name="negativeLogin"></include>
+      <include name="quit()"></include>
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- TestExamples -->
+</suite> <!-- Suite -->

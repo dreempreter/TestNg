@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97739" started-at="2023-02-05T03:55:17Z" finished-at="2023-02-05T03:56:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97739" started-at="2023-02-05T03:55:17Z" finished-at="2023-02-05T03:56:55Z">
+      <class name="com.neotech.lesson04.Homework1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="setUp" is-config="true" duration-ms="17553" started-at="2023-02-04T22:55:17Z" finished-at="2023-02-04T22:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="test" duration-ms="23820" started-at="2023-02-04T22:55:35Z" data-provider="getData" finished-at="2023-02-04T22:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Muradb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bayramovv]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ddreempreter]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aamore2777$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="tearDown" is-config="true" duration-ms="2794" started-at="2023-02-04T22:55:59Z" finished-at="2023-02-04T22:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="setUp" is-config="true" duration-ms="7870" started-at="2023-02-04T22:56:01Z" finished-at="2023-02-04T22:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="test" duration-ms="18103" started-at="2023-02-04T22:56:09Z" data-provider="getData" finished-at="2023-02-04T22:56:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jamabla]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gurbangova]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gurbanfova]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[gusrban68]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="tearDown" is-config="true" duration-ms="1417" started-at="2023-02-04T22:56:27Z" finished-at="2023-02-04T22:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="setUp" is-config="true" duration-ms="6732" started-at="2023-02-04T22:56:29Z" finished-at="2023-02-04T22:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="test" duration-ms="17910" started-at="2023-02-04T22:56:36Z" data-provider="getData" finished-at="2023-02-04T22:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enecs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sesrefsiz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[salish]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[empiwre23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.neotech.lesson04.Homework1@5a1b69]" name="tearDown" is-config="true" duration-ms="1461" started-at="2023-02-04T22:56:54Z" finished-at="2023-02-04T22:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.neotech.lesson04.Homework1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

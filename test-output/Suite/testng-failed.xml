@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.neotech.lesoon02.AssertDemo">
+        <methods>
+          <include name="openAndNavigate"/>
+          <include name="validationLoge"/>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- com.neotech.lesoon02.AssertDemo -->
+      <class name="com.neotech.lesson01.TitleAndLoginValidation">
+        <methods>
+          <include name="openAndNavigate"/>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- com.neotech.lesson01.TitleAndLoginValidation -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
